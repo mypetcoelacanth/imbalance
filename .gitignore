@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Kotlin
+.kotlin/
+
+# Local configuration (contains machine-specific SDK paths)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore / secrets
+*.jks
+*.keystore

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Quote images shown in the carousel on the main screen.
+        Drop your hand-drawn PNGs into res/drawable/ and list their resource
+        names here (the same string that gets R.drawable.N). Add as many as you like.
+    -->
+    <string-array name="quote_images">
+        <item>quote_1</item>
+        <item>quote_2</item>
+        <item>quote_3</item>
+        <item>quote_4</item>
+        <item>quote_5</item>
+    </string-array>
+
+    <!-- Hand-drawn scroll arrows. Drop arrow_left.png / arrow_right.png into res/drawable/ -->
+    <string name="arrow_left_res">arrow_left</string>
+    <string name="arrow_right_res">arrow_right</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Channel Balance</string>
+    <string name="service_channel_id">channel_balance_service</string>
+    <string name="service_channel_name">Balance compensation service</string>
+    <string name="service_notification_title">Channel Balance active</string>
+    <string name="service_notification_text">Applying your saved balance configs to audio</string>
+    <string name="chooser_title">Set channel balance</string>
+    <string name="chooser_edit_title">Edit config</string>
+    <string name="action_configs">Configs</string>
+    <string name="open_configurator">Open balance configurator</string>
+    <string name="no_device_yet">No audio device connected yet</string>
+</resources>
